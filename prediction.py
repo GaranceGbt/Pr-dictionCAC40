@@ -1,7 +1,6 @@
 # En-tete ---------------------------------------------------------------------
 # # Author: Gabaut Garance 
-# # Date: septemblre - octobre 2022
-# # module : algorthmique - M. Gambo Magagi
+# # Date: septembre - octobre 2022
 # # tite : Exploitation de notre jeu de données precedemment recolté
 
 #packages ---------------------------------------------------------------------
